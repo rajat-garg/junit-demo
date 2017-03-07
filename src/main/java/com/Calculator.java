@@ -1,4 +1,4 @@
-package main.java;
+package com;
 
 import java.util.IllformedLocaleException;
 
